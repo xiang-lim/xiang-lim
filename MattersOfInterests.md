@@ -1,7 +1,7 @@
 # MattersOfInterest
 
 ## 0. Navigation
-- [Back](README.md)
+- [Back](https://github.com/xiang-lim)
 - [About](#1-about-top)
 - [Experimental Ideas](#2-experimental-ideas-top)
 - [Projects](#3-projects-top)
