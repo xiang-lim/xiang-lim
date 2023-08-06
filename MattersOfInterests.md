@@ -1,6 +1,6 @@
 ## Matters Of Interest
 
-### 0. Navigation
+### Navigation
 
 - [Back](https://github.com/xiang-lim)
 - [About](#about-top)
@@ -9,7 +9,7 @@
 
 ---
 
-### About [[top]](#0-Navigation)
+### About [[top]](#matters-of-interest)
 
 A repository to catalog all experimental ideas and projects.
 
@@ -18,7 +18,7 @@ stated in the project/repository itself.
 
 ---
 
-### Experimental Ideas [[top]](#0-Navigation)
+### Experimental Ideas [[top]](#matters-of-interest)
 
 <blockquote>
 
@@ -66,7 +66,7 @@ Status: In progress
 
 ---
 
-### Projects [[top]](#0-Navigation)
+### Projects [[top]](#matters-of-interest)
 
 <blockquote>
 
