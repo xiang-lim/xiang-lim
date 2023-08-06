@@ -15,6 +15,7 @@ A repository to catalog all experimental ideas and projects.
 
 All projects/repositories will follow this project's license unless otherwise
 stated in the project/repository itself.
+
 ---
 
 ### 2. Experimental Ideas [[top]](#0-Navigation)
