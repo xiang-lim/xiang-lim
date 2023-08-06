@@ -67,6 +67,7 @@ Status: In progress
 ---
 
 ### Projects [[top]](#0-Navigation)
+
 <blockquote>
 
 **Project 1: Symmetry**
@@ -147,6 +148,7 @@ This becomes a limitation as `Symmetry` cannot determine the template for such r
 - Visualize clusters using scipy
 - Automate calculation of elbow method to optimize KMeans Cluster
 - Label similar clusters of code blocks
+
 </blockquote>
 
 </details>
@@ -169,7 +171,8 @@ Create terraform language generator to effectively create group of resources fro
 **Project 2: Tetraform**
 
 About:
-A project that aims to create terraform language generator that effectively create group of resources from a configuration file
+A project that aims to create terraform language generator that effectively create group of resources from a
+configuration file
 
 Status: On hold
 <details>
