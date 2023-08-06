@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello there, I am Lim Xiang 🧑‍🎓
 
-<!--
-**xiang-lim/xiang-lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🤔 About Me
 
-Here are some ideas to get you started:
+**Tag Line: *Why not?***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Software Engineer that is currently exploring and experimenting with various ideas relating to data science.
+
+#### 🔭 A catalog of my work
+
+- [Matters Of Interests](https://github.com/xiang-lim/MattersOfInterest)
+
+#### 📫 How to reach me:
+
+- [Linkedin](https://www.linkedin.com/in/xiang-lim/)
+- [Email](mailto:s10205010@connect.np.edu.sg)
