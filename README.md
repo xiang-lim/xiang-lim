@@ -8,7 +8,7 @@ I am a Software Engineer that is currently exploring and experimenting with vari
 
 #### 🔭 A catalog of my work
 
-- [Matters Of Interests](https://github.com/xiang-lim/MattersOfInterest)
+- [Matters Of Interests](MattersOfInterests.md)
 
 #### 📫 How to reach me:
 
