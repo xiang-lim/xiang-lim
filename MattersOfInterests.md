@@ -22,28 +22,6 @@ stated in the project/repository itself.
 
 <blockquote>
 
-**Idea 1: Symmetric**
-
-About:
-Ideating a way to have unsupervised learning that is able to grasp the underlying rules when processing the data.
-
-Status: On hold
-<details>
-<summary>Improvements</summary>
-
-</details>
-<details>
-<summary>Learnt</summary>
-
-</details>
-<details>
-<summary>Next step</summary>
-
-</details>
-</blockquote>
-
-<blockquote>
-
 **Idea 2: BetterScribe**
 
 About:
@@ -70,7 +48,7 @@ Status: In progress
 
 <blockquote>
 
-**Project 1: Symmetry**
+**[Project 1: Symmetry](https://github.com/xiang-lim/Symmetry)**
 
 About:
 A project to find patterns in terraform files which can be used to create templates of cloud resource configurations
@@ -140,6 +118,7 @@ This becomes a limitation as `Symmetry` cannot determine the template for such r
 </details>
 </blockquote></details>
 
+
 <details><summary>Learnt</summary><blockquote>
 
 - Able to cleanse and segment code blocks
@@ -168,13 +147,40 @@ Create terraform language generator to effectively create group of resources fro
 
 <blockquote>
 
-**Project 2: Tetraform**
+**[Project 2: Linart](https://github.com/xiang-lim/Linart)**
+
+About:
+A project that converts jpeg images into a line art
+
+Status: Completed
+<details>
+<summary>Learnt</summary>
+
+1. Depth perception issue: Using an image, it's hard for the computer to determine which sections of the image is more "in front of" the other .
+2. Hard to define which point is on the edge and which are enclosed or excluded by the "edge". Perhaps there are other factors needed to be considered to determine the edge.
+3. Multi-Processing vs Multi-Threading
+     * Multi-Processing: Better for more intense cpu
+     * Multi-Threading: Better for IO
+4. Experimented with HOG
+</details>
+<details>
+<summary>Next step</summary>
+
+1. Optimize computation and memory use
+2. Figure a better way to approximate solution
+
+</details>
+</blockquote>
+
+<blockquote>
+
+**Project 3: Tetraform**
 
 About:
 A project that aims to create terraform language generator that effectively create group of resources from a
 configuration file
 
-Status: On hold
+Status: Not started
 <details>
 <summary>Improvements</summary>
 
